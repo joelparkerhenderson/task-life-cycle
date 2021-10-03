@@ -41,6 +41,8 @@ git checkout -b add-lorem-ipsum
 git push
 ```
 
+Some teams create a teamwide git alias command that creates a topic branch in the exact way the team wants, including doing updates, first tests, notifications, and the like. For examples of topic branch aliases, see https://github.com/gitalias/gitalias
+
 
 ## Stage 3: Develop the work
 
@@ -54,17 +56,16 @@ git commit --message "Add lorem ipsum"
 git push
 ```
 
-Push the topic branch, ideally at least once per day:
+Push the topic branch, ideally at least once per day, ideally when all your local tests succeed. This helps you save your work, and also helps your teammates have visibility to your work in progress.
 
-```sh
-```
+If your team does task tracking updates, then do these, such as adding your notes for work in progress, or updating the task percent complete in the project management software, or checking off the pieces that are done so far in a task checklist, etc.
 
 
 ## Stage 4: Proof the work
 
 When your code is ready for your team to proof a.k.a. review, then start this stage.
 
-Some teams use GitHub features to hepl with proofing a.k.a. reviewing:
+Some teams use GitHub features to help with proofing a.k.a. reviewing:
 
 1. Go to GitHub to your topic branch. Create a pull request. 
 
