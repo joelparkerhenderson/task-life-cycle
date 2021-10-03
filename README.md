@@ -1,6 +1,6 @@
 # Task life cycle (TLC)
 
-Task life cycle is a process that creators (such as software developers) use to build projects (such as software applications). This page describes a task life cycle that we like to use that has six stages: start the task, create the branch, develop the work, proof the work, integrate the branch, deliver the result.
+Task life cycle is a process that creators (such as software developers) use to build projects (such as software applications). This page describes a task life cycle that we like to use that has six stages: start the task, create the space, develop the work, proof the work, integrate the branch, finish the task.
 
 Task life cycle aligns with the concepts of [systems development life cycle](https://en.wikipedia.org/wiki/Systems_development_life_cycle) and [software development process](https://wikipedia.org/wiki/Software_development_process). Task life cycle works well with many software development methodologies and frameworks, such as [agile](https://wikipedia.org/wiki/Agile_software_development), [lean](https://wikipedia.org/wiki/Lean_software_development), [kanban](https://wikipedia.org/wiki/Kanban), [scrum](https://wikipedia.org/wiki/Scrum), [spiral](https://wikipedia.org/wiki/Spiral_model), [prototyping](https://wikipedia.org/wiki/Software_prototyping), and more.
 
@@ -18,9 +18,11 @@ Start by choosing your task using your team's preferred way of working.
 * Some teams notify stakeholders when work on a task starts, such as by sending a message to stakeholders, or updating the task notes, or moving a story card between swim lanes, etc.
 
 
-## Stage 2: Create the branch
+## Stage 2: Create the space
  
-Create a new topic branch by using your team's version control.
+Create the space you need in order to do the task.
+
+For example, our team uses git version control, and we create the space by using git to create a new git topic branch. The rest of this section describes our team's approach.
 
 Update your project's main branch, such as:
 
@@ -35,6 +37,8 @@ Checkout a new branch with a suitable topic name, such as to add a feature named
 git checkout -b add-lorem-ipsum
 git push
 ```
+
+Some teams involve collaborators at this stage, such as adding pair programmers, or swarm programmers, or quality assurance teammates, or relevant user stakeholders, etc.
 
 Some teams create a teamwide git alias command that creates a topic branch in the exact way the team wants, including doing updates, first tests, notifications, and the like. For examples of topic branch aliases, see https://github.com/gitalias/gitalias
 
@@ -96,9 +100,9 @@ When all goes well, then your work is merged into main, and ready to deliver.
 If the team's workflow uses notifications, then do the notifications.
 
 
-## Stage 6: Deliver the result
+## Stage 6: Finish the task
 
-Deliver the result is a.k.a. ship the code to the users.
+Deliver all the deliverables. This means shipping the code to users, or publishing the pages to a website, or releasing a new application version, etc.
 
 If the team's workflow has continuous delivery, then the code is automatically delivered. 
 
