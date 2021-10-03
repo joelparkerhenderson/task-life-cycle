@@ -2,9 +2,7 @@
 
 Task life cycle is a process that creators (such as software developers) use to build projects (such as software applications). This page describes a task life cycle that we like to use that has six stages: start the task, create the branch, develop the work, proof the work, integrate the branch, deliver the result.
 
-Task life cycle fits within the related concepts of [Systems development life cycle] and [Software development process](https://wikipedia.org/wiki/Software_development_process).
-
-Task life cycle works well with many software development methodologies and frameworks, such as [agile](https://wikipedia.org/wiki/Agile_software_development), [lean](https://wikipedia.org/wiki/Lean_software_development), [kanban](https://wikipedia.org/wiki/Kanban), [scrum](https://wikipedia.org/wiki/Scrum), [spiral](https://wikipedia.org/wiki/Spiral_model), [prototyping](https://wikipedia.org/wiki/Software_prototyping), and more.
+Task life cycle aligns with the concepts of [systems development life cycle](https://en.wikipedia.org/wiki/Systems_development_life_cycle) and [software development process](https://wikipedia.org/wiki/Software_development_process). Task life cycle works well with many software development methodologies and frameworks, such as [agile](https://wikipedia.org/wiki/Agile_software_development), [lean](https://wikipedia.org/wiki/Lean_software_development), [kanban](https://wikipedia.org/wiki/Kanban), [scrum](https://wikipedia.org/wiki/Scrum), [spiral](https://wikipedia.org/wiki/Spiral_model), [prototyping](https://wikipedia.org/wiki/Software_prototyping), and more.
 
 
 ## Stage 1: Start the task
