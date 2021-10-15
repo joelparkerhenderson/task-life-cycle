@@ -9,13 +9,15 @@ Task life cycle aligns with the concepts of [systems development life cycle](htt
 
 Start by choosing your task using your team's preferred way of working.
 
-* Some teams organize tasks, such as with to-do lists, checklists, story cards, use cases, swim lanes, a statement of work (SoW), a work breakdown structure (WBS), etc.
+* **Some teams organize**: such as with to-do lists, checklists, story cards, use cases, swim lanes, a statement of work (SoW), a work breakdown structure (WBS), etc.
 
-* Some teams categorize tasks, such as with labels, tags, keywords, icons, status indicators, skill sets, flowcharts, value stream maps, hexagonal architecture, etc.
+* **Some teams categorize**: such as with labels, tags, keywords, icons, status indicators, skill sets, flowcharts, value stream maps, hexagonal architecture, etc.
 
-* Some teams prioritize tasks, such as by importance, story points, value estimates, planning poker, board grooming, Gantt charts, critical scheduling, resource leveling, etc.
+* **Some teams prioritize**: such as by importance, story points, value estimates, planning poker, board grooming, Gantt charts, critical scheduling, resource leveling, etc.
 
-* Some teams notify stakeholders when work on a task starts, such as by sending a message to stakeholders, or updating the task notes, or moving a story card between swim lanes, etc.
+* **Some teams update**: such as with status indicators or tags, or by moving a story card between kanban board columns, or by progressing a use case from one swim lane to the next, etc.
+
+* **Some teams notify**: such as by sending messages to stakeholders, or posting progress information on a web page, or using alert systems for developers.
 
 
 ## Stage 2: Create the space
